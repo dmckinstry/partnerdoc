@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>  
+<RunSettings>  
+
+  <!-- Parameters used by tests at runtime -->  
+  <TestRunParameters>
+    <Parameter name="BaseUrl" value="http://localhost:63958" />
+    <Parameter name="HideBrowser" value="False" />
+    <Parameter name="ChromeDriverPath" value="" />
+  </TestRunParameters>  
+
+</RunSettings>  
